@@ -1,0 +1,88 @@
+/* This is a single-line comment */
+header {
+  background-color: #353434;
+  padding: 1px;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(240, 229, 229);
+  border-radius: 20px;
+}
+body {
+    background-color: rgb(0, 0, 0);
+  }
+  
+/* code bellow relates to text and headings */
+  h1 {
+    color: rgb(241, 241, 247);
+    text-align: center;
+  }
+  
+  h2 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+
+  p {color: rgb(248, 239, 239);
+  text-align: center;
+  } 
+
+  p {
+    padding: 6px;
+    font-family: verdana;
+    font-size: 20px;
+  }
+ 
+  /* code below relates to nav bar */
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #02033a;
+  } 
+  
+  li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li {
+    float: left;
+  }
+
+  li a:hover {
+    background-color: #000000;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+
+  .active {
+    background-color: #04AA6D;
+  }
+  
+  nav {
+    margin: 10px;
+    border-radius: 20px;
+  }
+ 
+  /* code below relates to images */
+
+  img {
+    width: 400px;
+    border: 2px solid white;
+    padding: 7px;
+    background-color: #000000;
+    margin-left: 5%;
+  }
+
+
+ 
